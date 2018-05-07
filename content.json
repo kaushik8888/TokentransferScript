@@ -1,0 +1,32 @@
+[
+  {
+    "address":"0xF4710ED6F564fbC71cB495A5a6e5129321218a6F",
+    "amount": 100
+   
+  },
+  {
+    "address":"0xeAC68D240017fD37fd63D663c148a6A4dbD221B4",
+    "amount": 200
+  },
+  {
+    "address":"0x22894Cc415d8536DC39982CbBf603732d549C8E8",
+    "amount": 300
+  },
+  {
+    "address":"0xe566D7e0aB494E9b74d59E43d6D467050d1820DE",
+    "amount": 400
+  },
+  {
+    "address":"0xbbBd6e84b038ea2225C3cEc508536226b0DF3ac0",
+    "amount": 5000
+  },
+  {
+    "address":"0x5544a860597F547a1aD079b9D828766F90Bb47b5",
+    "amount": 60 
+  },
+  {
+    "address":"0x0a323e0216Aac52f57952482d382666b591Aa4e6",
+    "amount": 70
+  }
+]
+
